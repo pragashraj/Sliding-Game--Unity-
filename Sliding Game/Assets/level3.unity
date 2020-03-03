@@ -687,12 +687,6 @@ Transform:
   m_PrefabParentObject: {fileID: 4003070000517132, guid: 329e7b883d2af534bb99bd8ebcd754c5,
     type: 2}
   m_PrefabInternal: {fileID: 1986983022}
---- !u!114 &1328621644 stripped
-MonoBehaviour:
-  m_PrefabParentObject: {fileID: 114290818013578968, guid: 5825e29d7edc73f48b9ef02f115da4ec,
-    type: 2}
-  m_PrefabInternal: {fileID: 1024358553}
-  m_Script: {fileID: 11500000, guid: 64b61100a36971f46970a84c6607a406, type: 3}
 --- !u!1001 &1362608485
 Prefab:
   m_ObjectHideFlags: 0
@@ -1037,7 +1031,7 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1837095704}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -225.4, y: 0.6, z: 0.4}
+  m_LocalPosition: {x: -312.6, y: 0.2, z: 0.4}
   m_LocalScale: {x: 0.2, y: 1, z: 14}
   m_Children: []
   m_Father: {fileID: 0}
@@ -1051,10 +1045,10 @@ MonoBehaviour:
   m_GameObject: {fileID: 1837095704}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 384ed89f0a0ee6b4d871b1a879ac5f46, type: 3}
+  m_Script: {fileID: 11500000, guid: b1607ad8c069567439497bc3be29440f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  gamemanager: {fileID: 1328621644}
+  completeLevelUI: {fileID: 235450516}
 --- !u!1 &1885213686
 GameObject:
   m_ObjectHideFlags: 0
